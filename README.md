@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I'm Victor
 
-<!--
-**Dleyzzex/Dleyzzex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary
+Hi! I'm Victor. I'm a french and a dev student at @Epitech Rennes.  
+I'm now seeking for an internship in developpement in Rennes / near Rennes.  
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Up Citizen | Fullstack Dev.   
+Java J2EE / Progress / Html-Javascript.  
+Aout - December 2019  
+
+
+## Education
+
+* EPITECH - European Institute of Technology  
+2018 - 2023 
+  
+*   Baccalaureat Scientifique  
+2018 
+
+## Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dleyzzex&count_private=true&theme=graywhite&layout=compact&langs_count=6)
