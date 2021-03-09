@@ -20,4 +20,4 @@ Aout - December 2019
 2018 
 
 ## Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dleyzzex&count_private=true&theme=graywhite&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dleyzzex&theme=graywhite&layout=compact&langs_count=6)
