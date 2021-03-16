@@ -6,7 +6,7 @@ I'm now seeking for an internship in IT development in Rennes / near Rennes.
 
 ## Experience
 
-* Up Citizen | Fullstack Dev.   
+* Internship Up Citizen | Fullstack Dev.   
 Java J2EE / Progress / Html-Javascript.  
 Aout - December 2019  
 
