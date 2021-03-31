@@ -2,7 +2,6 @@
 
 ## Summary
 Hi! I'm Victor. I'm a french and a dev student at @Epitech Rennes.  
-I'm now seeking for an internship in IT development in Rennes / near Rennes.  
 
 ## Experience
 
