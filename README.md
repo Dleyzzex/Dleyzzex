@@ -6,7 +6,7 @@ Hi! I'm Victor. I'm a french and a dev student at @Epitech Rennes.
 ## Experience
 
 * Internship Sneak'Up | Dev.  
-NodeJs.  
+NodeJs / Ionic Angular.  
 Avril 2021 - now
 
 * Internship Up Citizen | Fullstack Dev.   
