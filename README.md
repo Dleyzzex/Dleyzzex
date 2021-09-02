@@ -2,6 +2,7 @@
 
 ## Summary
 Hi! I'm Victor. I'm a french and a dev student at @Epitech Rennes.  
+I'm currently student at CSU Long Beach as an internationnal student.  
 
 ## Experience
 
