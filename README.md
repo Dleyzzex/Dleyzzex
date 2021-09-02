@@ -7,7 +7,7 @@ Hi! I'm Victor. I'm a french and a dev student at @Epitech Rennes.
 
 * Internship Sneak'Up | Dev.  
 NodeJs / Ionic Angular.  
-Avril 2021 - now
+Avril 2021 - Juillet 2021  
 
 * Internship Up Citizen | Fullstack Dev.   
 Java J2EE / Progress / Html-Javascript.  
@@ -15,6 +15,9 @@ Aout - December 2019
 
 
 ## Education
+
+* CSULB - California State University Long Beach  
+2021 - Now 
 
 * EPITECH - European Institute of Technology  
 2018 - 2023 
