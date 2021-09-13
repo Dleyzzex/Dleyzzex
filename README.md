@@ -2,7 +2,7 @@
 
 ## Summary
 Hi! I'm Victor. I'm a french and a dev student :computer: at @Epitech Rennes.  
-I'm currently student at CSU Long Beach as an internationnal student :airplane:  
+I'm currently student at CSU Long Beach as an internationnal student :airplane: :earth_americas:  
 
 ## Experience
 
