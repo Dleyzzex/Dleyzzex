@@ -2,7 +2,7 @@
 
 ## Summary
 Hi! I'm Victor. I'm a french and a dev student :computer: at @Epitech Rennes.  
-I'm currently student at CSU Long Beach as an internationnal student :airplane: :earth_americas:  
+I also studied at CSU Long Beach as an internationnal student for 1 year :airplane: :earth_americas:  
 
 ## Experience
 
@@ -17,11 +17,11 @@ Aout - December 2019
 
 ## Education
 
-* CSULB - California State University Long Beach  
-2021 - Now 
-
 * EPITECH - European Institute of Technology  
-2018 - 2023 
+2018 - 2023  
+
+* CSULB - California State University Long Beach  
+2021 - 2022 
   
 *   Baccalaureat Scientifique  
 2018 
