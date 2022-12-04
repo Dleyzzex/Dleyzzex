@@ -6,13 +6,17 @@ I also studied at CSU Long Beach as an internationnal student for 1 year :airpla
 
 ## Experience
 
+* Internship Sopra Steria | Fullstack, Mobile  
+Java Spring boot / Angular / Kotlin / PostgreSQL  
+September 2022
+
 * Internship Sneak'Up | Dev.  
 NodeJs / Ionic Angular.  
-Avril 2021 - Juillet 2021  
+April 2021 - July 2021  
 
 * Internship Up Citizen | Fullstack Dev.   
 Java J2EE / Progress / Html-Javascript.  
-Aout - December 2019  
+August - December 2019  
 
 
 ## Education
