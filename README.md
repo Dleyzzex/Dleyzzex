@@ -18,7 +18,6 @@ April 2021 - July 2021
 Java J2EE / Progress / Html-Javascript.  
 August - December 2019  
 
-
 ## Education
 
 * EPITECH - European Institute of Technology  
@@ -29,6 +28,10 @@ August - December 2019
   
 *   Baccalaureat Scientifique  
 2018 
+
+## Links
+
+[🦊](https://gitlab.com/Dleyzzex)&nbsp;&nbsp;&nbsp;[🌐](simonvictor.com)
 
 ## Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dleyzzex&theme=graywhite&layout=compact&langs_count=6)
